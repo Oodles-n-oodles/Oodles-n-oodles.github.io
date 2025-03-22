@@ -1,4 +1,12 @@
 title: Oodles n Oodles
 description: A website about Oodles n Oodles
-author: 2pac
+author: Maxiboy
 theme: minima
+
+
+# Footer settings
+footer:
+  copyright: Maxiboy
+  location: Location
+  social: Around the Web
+  credits: Credits
