@@ -1,22 +1,13 @@
-title: Oodles n Oodles
-description: A website about Oodles n Oodles
-author: Maxiboy
+title: Oodles 'n Oodles
 theme: minima
 
 # Add this navigation section if it doesn’t exist
 header_pages:
   - index.md
-    - puppy_1.md
-    - puppy_2.md
-    - puppy_3.md
-    - puppy_4.md
-    - puppy_5.md
   - about.md
 
 
 # Footer settings
 footer:
-  copyright: Maxiboy
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Melbourne Australia
+
