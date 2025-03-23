@@ -27,7 +27,6 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
   <div class="gallery-item">
     <a href="/mum">
     <img src="https://media.istockphoto.com/id/1309897630/photo/cobberdog-pup-on-white.webp?s=2048x2048&w=is&k=20&c=xe90m_8JPR2YknwN2MGK94ZDt1LOms6l9_QXZUKHOdU=" alt="Mum"></a>
-    </a>
     <p><strong>Mum</strong></p>
   </div>
   <div class="gallery-item">
@@ -39,7 +38,7 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
   <div class="gallery-item">
   <a href="/puppy_1">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1"></a>
-    <p><strong>Puppy 1</strong></p><span style="color:green;">Available</span>
+    <p><strong>Puppy 1 <span style="color:green;">Available</span> </strong></p>
   </div>
 
   <div class="gallery-item">
