@@ -63,7 +63,7 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
   <div class="gallery-item">
   <a href="/puppy_5">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5"></a>
-    <p><strong>Puppy 45 <span style="color:blue;">Adopted</span> </strong></p>
+    <p><strong>Puppy 5 <span style="color:blue;">Adopted</span> </strong></p>
   </div>
 
 </div>

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Puppy 1
-permalink: /puppy_1/
+title: Mum
+permalink: /mum/
 ---
 
-Puppy 1:
+Mum
 
 
  <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1">
-    <p><strong>Puppy 1</strong></p>
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Mum">
+    <p><strong>Mum/strong></p>
   </div>
 
 
