@@ -44,26 +44,26 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
   <div class="gallery-item">
   <a href="/puppy_2">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2"></a>
-    <p><strong>Puppy 2</strong></p><span style="color:orange;">Under Contract</span>
+    <p><strong>Puppy 2 <span style="color:orange;">Under Contract</span> </strong></p>
   </div>
 
   <div class="gallery-item">
   <a href="/puppy_3">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3"></a>
-    <p><strong>Puppy 3</strong></p><span style="color:green;">Available</span>
+    <p><strong>Puppy 3 <span style="color:green;">Available</span> </strong></p>
   </div>
 
 
   <div class="gallery-item">
     <a href="/puppy_4">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4"></a>
-    <p>Puppy 4</p><span style="color:green;">Available</span>
+    <p><strong>Puppy 4 <span style="color:green;">Available</span> </strong></p>
   </div> 
 
   <div class="gallery-item">
   <a href="/puppy_5">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5"></a>
-    <p>Puppy 5</p><span style="color:blue;">Adopted</span>
+    <p><strong>Puppy 45 <span style="color:blue;">Adopted</span> </strong></p>
   </div>
 
 </div>
