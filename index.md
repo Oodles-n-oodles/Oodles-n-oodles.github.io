@@ -25,41 +25,45 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="https://media.istockphoto.com/id/1309897630/photo/cobberdog-pup-on-white.webp?s=2048x2048&w=is&k=20&c=xe90m_8JPR2YknwN2MGK94ZDt1LOms6l9_QXZUKHOdU=" alt="Mum">
+    <a href="/mum">
+    <img src="https://media.istockphoto.com/id/1309897630/photo/cobberdog-pup-on-white.webp?s=2048x2048&w=is&k=20&c=xe90m_8JPR2YknwN2MGK94ZDt1LOms6l9_QXZUKHOdU=" alt="Mum"></a>
+    </a>
     <p><strong>Mum</strong></p>
   </div>
   <div class="gallery-item">
-    <img src="https://media.istockphoto.com/id/174938595/photo/goldendoddle-puppy-laying-in-grass.webp?s=2048x2048&w=is&k=20&c=ydsisiZc1wiK14Xd0Q7Qm_v2RtkSbnEEP4QdOAR0MCc=" alt="Dad">
+  <a href="/dad">
+    <img src="https://media.istockphoto.com/id/174938595/photo/goldendoddle-puppy-laying-in-grass.webp?s=2048x2048&w=is&k=20&c=ydsisiZc1wiK14Xd0Q7Qm_v2RtkSbnEEP4QdOAR0MCc=" alt="Dad"></a>
     <p><strong>Dad</strong></p>
   </div>
 
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1">
+  <a href="/puppy_1">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1"></a>
     <p><strong>Puppy 1</strong></p>
   </div>
 
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
+  <a href="/puppy_2">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2"></a>
     <p><strong>Puppy 2</strong></p>
   </div>
 
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
-    <p><strong>Puppy 2</strong></p>
+  <a href="/puppy_3">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3"></a>
+    <p><strong>Puppy 3</strong></p>
   </div>
 
-  <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3">
-    <p>Puppy 3</p>
-  </div>
 
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4">
+    <a href="/puppy_4">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4"></a>
     <p>Puppy 4</p>
   </div> 
 
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
+  <a href="/puppy_5">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5"></a>
     <p>Puppy 5</p>
   </div>
 
