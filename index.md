@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Welcome
 permalink: /
 ---
 
@@ -25,28 +25,43 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="https://cdn.example.com/mum.jpg" alt="Mum">
+    <img src="https://media.istockphoto.com/id/1309897630/photo/cobberdog-pup-on-white.webp?s=2048x2048&w=is&k=20&c=xe90m_8JPR2YknwN2MGK94ZDt1LOms6l9_QXZUKHOdU=" alt="Mum">
     <p><strong>Mum</strong></p>
   </div>
   <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Dad">
+    <img src="https://media.istockphoto.com/id/174938595/photo/goldendoddle-puppy-laying-in-grass.webp?s=2048x2048&w=is&k=20&c=ydsisiZc1wiK14Xd0Q7Qm_v2RtkSbnEEP4QdOAR0MCc=" alt="Dad">
     <p><strong>Dad</strong></p>
   </div>
+
   <div class="gallery-item">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1">
-    <p>Puppy 1</p>
+    <p><strong>Puppy 1</strong></p>
   </div>
+
   <div class="gallery-item">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
-" alt="Puppy 2">
-    <p>Puppy 2</p>
+    <p><strong>Puppy 2</strong></p>
   </div>
+
+  <div class="gallery-item">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
+    <p><strong>Puppy 2</strong></p>
+  </div>
+
   <div class="gallery-item">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3">
-" alt="Puppy 3">
     <p>Puppy 3</p>
   </div>
+
   <div class="gallery-item">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4">
+    <p>Puppy 4</p>
   </div>
+ 
+
+  <div class="gallery-item">
+    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
+    <p>Puppy 5</p>
+  </div>
+
 </div>
