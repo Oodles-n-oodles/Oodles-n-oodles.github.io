@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Puppy 3 <span style="color:green;">Available</span> 
+title: Puppy 3
 permalink: /puppy_3/
 ---
 
-Puppy 3:
+<H2><strong>Puppy 3: <span style="color:green;">Available</span> </strong></H2>
 
 
  <div class="gallery-item">
