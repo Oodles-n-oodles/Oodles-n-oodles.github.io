@@ -25,7 +25,7 @@ Mum and Dad:
  <div class="gallery-item">
     <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/ccefbddd-87a4-4cd3-d483-93f7cedd2a00/public" alt="Marley - Kitchen">
     <p><strong>Marley - Kitchen</strong></p>
-
+ </div>
 
 [Back to Home](/)
 
