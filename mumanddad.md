@@ -17,8 +17,14 @@ Mum and Dad:
     <p><strong>Max</strong></p>
   </div>
 
-
-
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/1755fd14-d099-44f5-066e-5a41c52dda00/public" alt="Sleeping Max">
+    <p><strong>Sleeping Max</strong></p>
+  </div>
+ 
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/ccefbddd-87a4-4cd3-d483-93f7cedd2a00/public" alt="Marley - Kitchen">
+    <p><strong>Marley - Kitchen</strong></p>
 
 
 [Back to Home](/)
