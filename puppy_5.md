@@ -4,12 +4,12 @@ title: Puppy 5
 permalink: /puppy_5/
 ---
 
-Puppy 5:
+<h2><span style="color:blue;">Adopted</span></h2>
 
 
  <div class="gallery-item">
     <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
-    <p><strong>Puppy 5 <span style="color:blue;">Adopted</span> </strong></p>
+    <p><strong>Puppy 5 </strong></p>
   </div>
 
 [Back to Home](/)
