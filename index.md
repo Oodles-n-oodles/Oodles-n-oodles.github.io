@@ -88,7 +88,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     </div>
   </div>
     <div class="gallery-item">
-    <a href="/mumanddadgallary">
+    <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/0ad1b10f-238e-419f-4539-1afde0c7f900/public" alt="Mum and Dad"></a>
         <p><strong>Mum and Dad</strong></p>
       </div>
