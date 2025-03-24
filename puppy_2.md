@@ -4,7 +4,7 @@ title: Puppy 2
 permalink: /puppy_2/
 ---
 
-<span style="color:Orange;">Under Contract</span> </strong></H2>
+<h2><span style="color:Orange;">Under Contract</span> </h2>
 
 
  <div class="gallery-item">
