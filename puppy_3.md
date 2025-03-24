@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Puppy 3
+title: Puppy 3 <span style="color:green;">Available</span> 
 permalink: /puppy_3/
 ---
 
