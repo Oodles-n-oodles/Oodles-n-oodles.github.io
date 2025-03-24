@@ -45,19 +45,19 @@ Mum and Dad:
       <p><strong>Mum and Dad 1 </strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/4af90dae-30ec-47e2-95eb-54c95fa20a00/public" alt="Mum and Dad 2">
       </a>
-      <p><strong>Mum and Dad 1 </strong></p>
+      <p><strong>Mum and Dad 2 </strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9dc4cef7-3f1c-4a1e-d2bd-4a77c5cfd400/public" alt="Mum and Dad 3">
       </a>
-      <p><strong>Mum and Dad 1 </strong></p>
+      <p><strong>Mum and Dad 3  </strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bd135f71-0e1a-4806-d53b-a93b749d2d00/public" alt="Mum and Dad 4 ">
       </a>
-      <p><strong>Mum and Dad 1 </strong></p>
+      <p><strong>Mum and Dad 4 </strong></p>
     </div> 
     <div class="gallery-item">
         <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
@@ -92,6 +92,11 @@ Mum and Dad:
     <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/8cc18e5d-cf81-472b-0c10-d15a33077200/public" alt="Mum 4"></a>
         <p><strong>Mum 4</strong></p>
+
+   <div class="gallery-item">
+    <a href="/mumanddadgallery">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5aa014e7-cad7-42fa-b166-855377d02800/public" alt="Mum 5"></a>
+        <p><strong>Mum 5</strong></p>
 
 
   <div class="/gallery">
