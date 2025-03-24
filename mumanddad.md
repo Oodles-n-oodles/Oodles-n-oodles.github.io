@@ -73,30 +73,24 @@ Mum and Dad:
   <div class="gallery">
     <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1">
         <p><strong>Mum 1</strong></p>
 
    <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Mum 2"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Mum 2">
         <p><strong>Mum 2</strong></p>
 
 
    <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Mum 3"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/8cc18e5d-cf81-472b-0c10-d15a33077200/public" alt="Mum 3">
         <p><strong>Mum 3</strong></p>
 
-
    <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/8cc18e5d-cf81-472b-0c10-d15a33077200/public" alt="Mum 4"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5aa014e7-cad7-42fa-b166-855377d02800/public" alt="Mum 4">
         <p><strong>Mum 4</strong></p>
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5aa014e7-cad7-42fa-b166-855377d02800/public" alt="Mum 5"></a>
-        <p><strong>Mum 5</strong></p>
 
 
   <div class="/gallery">
@@ -109,7 +103,7 @@ Mum and Dad:
   <div class="gallery">
     <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1">
         <p><strong>Dad 1</strong></p>
         
 
@@ -117,6 +111,12 @@ Mum and Dad:
     <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Dad 2"></a>
         <p><strong>Dad 2</strong></p>
+
+   <div class="gallery-item">
+    <a href="/mumanddadgallery">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 3"></a>
+        <p><strong>Dad 3</strong></p>
+
   </div>
 
 

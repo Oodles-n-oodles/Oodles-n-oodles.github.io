@@ -76,22 +76,11 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
   <div class="section-title">Meet the Parents</div>
   <div class="gallery">
     <div class="gallery-item">
-      <a href="/mum">
-        <img src="https://media.istockphoto.com/id/1309897630/photo/cobberdog-pup-on-white.webp?s=2048x2048&w=is&k=20&c=xe90m_8JPR2YknwN2MGK94ZDt1LOms6l9_QXZUKHOdU=" alt="Mum">
-      </a>
-      <p><strong>Mum</strong></p>
-    </div>
-    <div class="gallery-item">
-      <a href="/dad">
-        <img src="https://media.istockphoto.com/id/174938595/photo/goldendoddle-puppy-laying-in-grass.webp?s=2048x2048&w=is&k=20&c=ydsisiZc1wiK14Xd0Q7Qm_v2RtkSbnEEP4QdOAR0MCc=" alt="Dad"></a>
-      <p><strong>Dad</strong></p>
-    </div>
-  </div>
-    <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/0ad1b10f-238e-419f-4539-1afde0c7f900/public" alt="Mum and Dad"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/909abca4-777f-40be-50d8-183ccaa74000/public" alt="Mum and Dad"></a>
         <p><strong>Mum and Dad</strong></p>
-      </div>
+  <div class="/gallery">
+  </div>
 
 
 
