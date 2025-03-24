@@ -105,17 +105,11 @@ Mum and Dad:
     <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1">
         <p><strong>Dad 1</strong></p>
-        
 
    <div class="gallery-item">
     <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Dad 2"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2"></a>
         <p><strong>Dad 2</strong></p>
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 3"></a>
-        <p><strong>Dad 3</strong></p>
 
   </div>
 
