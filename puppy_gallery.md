@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Mum and Dad Gallery
+title: Puppy Gallery
 permalink: /puppy_gallery/
 ---
 
 
-Mum and Dad:
+Week 3 Puppy Pics! Awww sooooo cute
 
 
 <style>
@@ -40,12 +40,12 @@ Mum and Dad:
   <div class="section-title">Pupply Gallery</div>
   <div class="gallery">
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b01325f4-3d5c-4c24-64a6-15b9db258b00/public" alt="Puppy Pic 7 - Pink">
-      <p><strong>Puppy Pic 7 - Pink</strong></p>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b01325f4-3d5c-4c24-64a6-15b9db258b00/public" alt="Puppy Pic 7 - Blue Boy">
+      <p><strong>Puppy Pic 7 - Blue Boy</strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy Pic 1 - Blue">
-      <p><strong>Puppy Pic 1 - Blue</strong></p>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy Pic 1 - Pink">
+      <p><strong>Puppy Pic 1 - Pink</strong></p>
     </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/22c8cbb9-d3cf-4a86-1915-01ef87756100/public" alt="Puppy Pic 3 - TBC">
@@ -53,7 +53,7 @@ Mum and Dad:
         </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3b5957e9-1c42-437a-de59-893e0edc8300/public" alt="Puppy Pic 2 - Pink">
-      <p><strong>Puppy Pic 7 - Pink </strong></p>
+      <p><strong>Puppy Pic 2 - Pink </strong></p>
     </div> 
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/c1fac7d4-7857-4efd-2120-0ef4248ea800/public" alt="Puppy Pic 4 - 3 Girls">
