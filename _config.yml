@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - index.md
   - about.md
+  - puppy_gallery.md
 
 
 # Footer settings

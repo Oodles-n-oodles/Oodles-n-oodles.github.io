@@ -8,6 +8,9 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
 
 Raised in our family home with lots of love, cuddles, and care, these pups are well-socialised and ready to bring happiness to their new forever homes.
 
+
+
+
 <style>
 .gallery {
   display: grid;
@@ -34,6 +37,19 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
   padding-bottom: 4px;
 }
 </style>
+<div class="section">
+  <div class="section-title">Meet the Parents</div>
+  <div class="gallery">
+    <div class="gallery-item">
+    <a href="/puppy_gallery">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy Pics"></a>
+        <p><strong>Puppy Pics</strong></p>
+  <div class="/gallery">
+  </div>
+
+
+
+
 
 <div class="section">
   <div class="section-title">Puppies for Adoption</div>
