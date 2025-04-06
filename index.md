@@ -38,11 +38,11 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 }
 </style>
 <div class="section">
-  <div class="section-title">Meet the Parents</div>
+  <div class="section-title">Meet Our Adorable Pups</div>
   <div class="gallery">
     <div class="gallery-item">
     <a href="/puppy_gallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy Pics"></a>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Meet Our Adorable Pups"></a>
         <p><strong>Puppy Pics</strong></p>
   <div class="/gallery">
   </div>
