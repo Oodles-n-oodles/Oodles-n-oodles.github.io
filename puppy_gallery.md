@@ -4,10 +4,6 @@ title: Puppy Gallery
 permalink: /puppy_gallery/
 ---
 
-
-Week 3 Puppy Pics! Awww sooooo cute
-
-
 <style>
 .gallery {
   display: grid;
@@ -37,7 +33,7 @@ Week 3 Puppy Pics! Awww sooooo cute
 
 
 <div class="section">
-  <div class="section-title">Pupply Gallery</div>
+  <div class="section-title">Week 3 Puppy Pics! Awww sooooo cute</div>
   <div class="gallery">
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b01325f4-3d5c-4c24-64a6-15b9db258b00/public" alt="Puppy Pic 7 - Blue Boy">
