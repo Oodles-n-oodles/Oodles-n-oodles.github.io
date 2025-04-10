@@ -45,10 +45,6 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
   <div class="/gallery">
   </div>
 
-
-
-
-
 <div class="section">
   <div class="section-title">Puppies for Adoption</div>
   <div class="gallery">
@@ -97,12 +93,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
   <div class="/gallery">
   </div>
 
-
-
-
-</div>
-
-
+<div class="section">
 Visit our Puppy pages:
 - [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
 - [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
@@ -110,3 +101,4 @@ Visit our Puppy pages:
 - [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
 - [Puppy Gallery!](/puppy_gallery/)
+</div>
