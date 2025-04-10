@@ -36,21 +36,20 @@ permalink: /puppy_gallery/
   <div class="section-title">Week 3 Puppy Pics! Sooooo cute</div>
   <div class="gallery">
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b01325f4-3d5c-4c24-64a6-15b9db258b00/public" alt="Puppy 2 - Fudge (Boy)">
-      <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy 1 - Peaches (Girl)">
+      <p><strong>Puppy 1 - Peaches (Girl) pic 1"</strong></p>
+       <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3b5957e9-1c42-437a-de59-893e0edc8300/public" alt="Puppy 1 - Peaches (Girl)">
+      <p><strong>Puppy 1 - Peaches (Girl) pic 2" </strong></p>
+    </div> 
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy 1 - Peaches (Girl)">
-      <p><strong>Puppy 1 - Peaches (Girl)"</strong></p>
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b01325f4-3d5c-4c24-64a6-15b9db258b00/public" alt="Puppy 2 - Fudge (Boy)">
+      <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
     </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/22c8cbb9-d3cf-4a86-1915-01ef87756100/public" alt="Puppy Pic 3 - TBC">
       <p><strong>Puppy Pic 3 - TBC </strong></p>
         </div>
-    <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3b5957e9-1c42-437a-de59-893e0edc8300/public" alt="Puppy 1 - Peaches (Girl)">
-      <p><strong>Puppy 1 - Peaches (Girl)" </strong></p>
-    </div> 
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/c1fac7d4-7857-4efd-2120-0ef4248ea800/public" alt="Puppy Pic 4 - 3 Girls">
       <p><strong>Puppy Pic 4 - 3 Girls </strong></p>
