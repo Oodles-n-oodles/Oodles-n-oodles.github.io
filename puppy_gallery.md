@@ -54,9 +54,11 @@ permalink: /puppy_gallery/
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/c1fac7d4-7857-4efd-2120-0ef4248ea800/public" alt="Puppy Pic 4 - 3 Girls">
       <p><strong>Puppy Pic 4 - 3 Girls </strong></p>
+    </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/638633b0-f1f9-4ec4-741c-43c4f1f01300/public" alt="Puppy Pic 5 - 3 Girls">
-      <p><strong>Puppy Pic 5 - 3 Girls </strong></p>      
+      <p><strong>Puppy Pic 5 - 3 Girls </strong></p>
+    </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/0a42a01a-504d-48ce-2fa0-524026c17e00/public" alt="Puppy Pic 6 - 2 Boys">
       <p><strong>Puppy Pic 5 - 2 Boys </strong></p>     
