@@ -8,15 +8,6 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
 
 Raised in our family home with lots of love, cuddles, and care, these pups are well-socialised and ready to bring happiness to their new forever homes.
 
-Visit Puppy pages:
-- [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
-- [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
-- [Puppy 3 - Puppy 3 - Marshmellow (Boy)](/puppy_3/)
-- [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
-- [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
-- [Puppy Gallery!](/puppy_gallery/)
-
-
 <style>
 .gallery {
   display: grid;
@@ -97,6 +88,7 @@ Visit Puppy pages:
 
 <div class="section">
   <div class="section-title">Meet the Parents</div>
+  <p>Click the picture to go to the parents gallery!</p>
   <div class="gallery">
     <div class="gallery-item">
     <a href="/mumanddadgallery">
@@ -109,3 +101,12 @@ Visit Puppy pages:
 
 
 </div>
+
+
+Visit our Puppy pages:
+- [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
+- [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
+- [Puppy 3 - Puppy 3 - Marshmellow (Boy)](/puppy_3/)
+- [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
+- [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
+- [Puppy Gallery!](/puppy_gallery/)
