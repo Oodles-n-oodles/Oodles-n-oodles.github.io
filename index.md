@@ -56,33 +56,33 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
   <div class="gallery">
     <div class="gallery-item">
       <a href="/puppy_1">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
       </a>
-      <p><strong>Puppy 1 <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 1 - Peaches (Girl) - Pink Collar <span style="color:green;">Available</span></strong></p>
     </div>
     <div class="gallery-item">
       <a href="/puppy_2">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/aac3d4ab-9ecb-4ae8-54a2-fa49b1724300/public" alt="Puppy 2">
       </a>
-      <p><strong>Puppy 2 <span style="color:orange;">Under Contract</span></strong></p>
+      <p><strong>Puppy 2 - Fudge (Boy)<span style="color:Green;">Available</span></strong></p>
     </div>
     <div class="gallery-item">
       <a href="/puppy_3">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 3">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9f1596a8-1577-4d51-8442-68552d6f6700/public" alt="Puppy 3">
       </a>
-      <p><strong>Puppy 3 <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 3 - Marshmellow (Boy) <span style="color:Green;">Available</span></strong></p>
     </div>
     <div class="gallery-item">
       <a href="/puppy_4">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 4">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/43ccfd5a-0cb2-4939-5a81-2e6f302c3200/public" alt="Puppy 4">
       </a>
-      <p><strong>Puppy 4 <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 4 - Waffle (Girl) <span style="color:green;">Available</span></strong></p>
     </div> 
     <div class="gallery-item">
-      <a href="/puppy_5">
-        <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
+      <a href="/puppy_4">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b40addda-e01a-4796-4ab2-8721ca712800/public" alt="Puppy 5">
       </a>
-      <p><strong>Puppy 5 <span style="color:blue;">Adopted</span></strong></p>
+      <p><strong>Puppy 5 - Twirly (Girl)<span style="color:blue;">Adopted</span></strong></p>
     </div>
   </div>
 </div>
