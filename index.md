@@ -79,10 +79,10 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <p><strong>Puppy 4 - Waffle (Girl) <span style="color:green;">Available</span></strong></p>
     </div> 
     <div class="gallery-item">
-      <a href="/puppy_4">
+      <a href="/puppy_5">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b40addda-e01a-4796-4ab2-8721ca712800/public" alt="Puppy 5">
       </a>
-      <p><strong>Puppy 5 - Twirly (Girl)<span style="color:blue;">Adopted</span></strong></p>
+      <p><strong>Puppy 5 - Twirly (Girl)<span style="color:Green;">Available</span></strong></p>
     </div>
   </div>
 </div>
