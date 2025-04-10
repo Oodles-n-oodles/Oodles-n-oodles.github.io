@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Puppy 1
+title: Puppy 1 - Peaches (Girl)
 permalink: /puppy_1/
 ---
 
@@ -8,8 +8,8 @@ permalink: /puppy_1/
 
 
  <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 1">
-    <p><strong>Puppy 1</strong></p>
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
+    <p><strong>Puppy 1 - Peaches (Girl) </strong></p>
   </div>
 
 

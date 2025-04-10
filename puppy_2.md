@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Puppy 2
+title: Puppy 2 - Fudge (Boy)
 permalink: /puppy_2/
 ---
 
-<h2><span style="color:Orange;">Under Contract</span> </h2>
+<h2><span style="color:Green;">Available</span> </h2>
 
 
  <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 2">
-    <p><strong>Puppy 2</strong></p>
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/aac3d4ab-9ecb-4ae8-54a2-fa49b1724300/public" alt="Puppy 2 - Fudge (Boy)">
+    <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
   </div>
 
 [Back to Home](/)

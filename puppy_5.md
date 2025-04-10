@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Puppy 5
+title: Puppy 5 - Twirly (Girl)
 permalink: /puppy_5/
 ---
 
-<h2><span style="color:blue;">Adopted</span></h2>
+<h2><span style="color:Green;">Available</span></h2>
 
 
  <div class="gallery-item">
-    <img src="https://cdn.pixabay.com/photo/2017/06/25/20/53/puppy-2441961_960_720.jpg" alt="Puppy 5">
-    <p><strong>Puppy 5 </strong></p>
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b40addda-e01a-4796-4ab2-8721ca712800/public" alt="Puppy 5 - Twirly (Girl)">
+    <p><strong>Puppy 5 - Twirly (Girl)</strong></p>
   </div>
 
 [Back to Home](/)
