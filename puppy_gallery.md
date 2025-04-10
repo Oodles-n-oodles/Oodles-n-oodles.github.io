@@ -40,7 +40,7 @@ permalink: /puppy_gallery/
       <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy 1 - Peaches (Girl)"">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" alt="Puppy 1 - Peaches (Girl)">
       <p><strong>Puppy 1 - Peaches (Girl)"</strong></p>
     </div>
     <div class="gallery-item">
