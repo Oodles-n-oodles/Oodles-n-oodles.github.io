@@ -11,4 +11,6 @@ permalink: /puppy_4/
     <p><strong>Puppy 4 - Waffle (Girl) </strong></p>
   </div>
 
+[Visit the puppy gallery](/puppy_gallery/) to see more pics!
+<br>
 [Back to Home](/)

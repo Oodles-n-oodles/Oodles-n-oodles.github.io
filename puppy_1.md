@@ -12,4 +12,7 @@ permalink: /puppy_1/
     <p><strong>Puppy 1 - Peaches (Girl) - Pink Collar </strong></p>
   </div>
 
+
+[Visit the puppy gallery](/puppy_gallery/) to see more pics!
+<br>
 [Back to Home](/)
