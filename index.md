@@ -45,6 +45,7 @@ Visit Puppy pages:
 </style>
 <div class="section">
   <div class="section-title">Meet Our Adorable Pups</div>
+  <p>Click the picture to go to the puppy gallery!</p>
   <div class="gallery">
     <div class="gallery-item">
     <a href="/puppy_gallery">
