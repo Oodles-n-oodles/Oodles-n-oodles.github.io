@@ -103,7 +103,9 @@ Mum and Dad:
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2"></a>
         <p><strong>Dad 2</strong></p>
 
+  <div class="/gallery">
   </div>
+
 </div>
 
 [Back to Home](/)
