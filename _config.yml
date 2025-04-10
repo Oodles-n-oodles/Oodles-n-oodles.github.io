@@ -4,11 +4,6 @@ theme: minima
 # Add this navigation section if it doesn’t exist
 header_pages:
   - puppy_gallery.md
-  - puppy_1.md
-  - puppy_2.md
-  - puppy_3.md
-  - puppy_4.md
-  - puppy_5.md
 
 
 # Footer settings
