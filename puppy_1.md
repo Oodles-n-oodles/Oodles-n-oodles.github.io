@@ -19,9 +19,7 @@ permalink: /puppy_1/
 - [Puppy 3 - Puppy 3 - Marshmellow (Boy)](/puppy_3/)
 - [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
-- [Visit the puppy gallery](/puppy_gallery/) to see more pics!
+- or [Visit the puppy gallery](/puppy_gallery/) to see more pics!
 
-</br>
-</br>
 
 [Back to Home](/)
