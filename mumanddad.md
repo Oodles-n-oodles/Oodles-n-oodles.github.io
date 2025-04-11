@@ -53,34 +53,28 @@ Mum and Dad:
       <p><strong>Mum and Dad 4 - Dog Yoga</strong></p>
     </div>
   </div>
-</div>
+  <p>Hmmmm....I wonder what are they upto?</p>
+  <div style="padding:176.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1074626591?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="WhatsApp Video 2025-04-11 at 9.29.04 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+  </div>
 
 <div class="section">
   <div class="section-title">Mum Pics</div>
   <div class="gallery">
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1">
         <p><strong>Mum 1 - Working hard</strong></p>
-      </a>
     </div>
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Mum 2">
         <p><strong>Mum 2 - Happy</strong></p>
-      </a>
     </div>
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/8cc18e5d-cf81-472b-0c10-d15a33077200/public" alt="Mum 3">
         <p><strong>Mum 3 - I'm a rabbit</strong></p>
-      </a>
     </div>
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5aa014e7-cad7-42fa-b166-855377d02800/public" alt="Mum 4">
         <p><strong>Mum 4 - Psst... pat me!</strong></p>
-      </a>
     </div>
   </div>
 </div>
@@ -89,36 +83,19 @@ Mum and Dad:
   <div class="section-title">Dad Pics</div>
   <div class="gallery">
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1">
         <p><strong>Did you say WALK?</strong></p>
-      </a>
     </div>
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2">
-        <p><strong>Do you have some food?</strong></p>
-      </a>
+        <p><strong>Did you have say FOOD?</strong></p>
     </div>
     <div class="gallery-item">
-      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5cb5874c-3bc2-4d26-8b6c-b2ba66598900/public" alt="Dad 2">
-        <p><strong>Stick? Oh this? I found it in the park… and now it’s mine!</strong></p>
-      </a>
+        <p><strong>Stick? Oh this? I found this big stick in the park… and now it’s mine!</strong></p>
     </div>
-
-
-
-
-
-
-
   </div>
 </div>
-
-<p>Hmmmm....I wonder what are they upto?</p>
-<div style="padding:176.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1074626591?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="WhatsApp Video 2025-04-11 at 9.29.04 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 
 <hr>
 
