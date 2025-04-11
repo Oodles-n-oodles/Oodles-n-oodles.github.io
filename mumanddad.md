@@ -4,9 +4,7 @@ title: Mum and Dad Gallery
 permalink: /mumanddadgallery/
 ---
 
-
 Mum and Dad:
-
 
 <style>
 .gallery {
@@ -35,96 +33,84 @@ Mum and Dad:
 }
 </style>
 
-
 <div class="section">
-  <div class="section-title">Mum and Dad Pics- Together</div>
+  <div class="section-title">Mum and Dad Pics - Together</div>
   <div class="gallery">
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/909abca4-777f-40be-50d8-183ccaa74000/public" alt="Mum and Dad 1">
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/909abca4-777f-40be-50d8-183ccaa74000/public" alt="Mum and Dad 1">
       <p><strong>Mum and Dad 1 - Just hanging out together</strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/4af90dae-30ec-47e2-95eb-54c95fa20a00/public" alt="Mum and Dad 2">
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/4af90dae-30ec-47e2-95eb-54c95fa20a00/public" alt="Mum and Dad 2">
       <p><strong>Mum and Dad 2 - Dad was just a little puppy himself!</strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9dc4cef7-3f1c-4a1e-d2bd-4a77c5cfd400/public" alt="Mum and Dad 3">
-      <p><strong>Mum and Dad 3 - let's go for a drive </strong></p>
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9dc4cef7-3f1c-4a1e-d2bd-4a77c5cfd400/public" alt="Mum and Dad 3">
+      <p><strong>Mum and Dad 3 - Let's go for a drive</strong></p>
     </div>
     <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bd135f71-0e1a-4806-d53b-a93b749d2d00/public" alt="Mum and Dad 4 ">
-      <p><strong>Mum and Dad 4 - Dog Yoga </strong></p>
-    </div> 
-
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bd135f71-0e1a-4806-d53b-a93b749d2d00/public" alt="Mum and Dad 4">
+      <p><strong>Mum and Dad 4 - Dog Yoga</strong></p>
+    </div>
   </div>
 </div>
-
 
 <div class="section">
   <div class="section-title">Mum Pics</div>
   <div class="gallery">
     <div class="gallery-item">
-    <a href="/mumanddadgallery">
+      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1">
-        <p><strong>Mum 1 - working hard</strong></p>
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
+        <p><strong>Mum 1 - Working hard</strong></p>
+      </a>
+    </div>
+    <div class="gallery-item">
+      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Mum 2">
-        <p><strong>Mum 2 - happy</strong></p>
-
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
+        <p><strong>Mum 2 - Happy</strong></p>
+      </a>
+    </div>
+    <div class="gallery-item">
+      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/8cc18e5d-cf81-472b-0c10-d15a33077200/public" alt="Mum 3">
         <p><strong>Mum 3 - I'm a rabbit</strong></p>
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
+      </a>
+    </div>
+    <div class="gallery-item">
+      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5aa014e7-cad7-42fa-b166-855377d02800/public" alt="Mum 4">
-        <p><strong>Mum 4 - psstt.. pat me!</strong></p>
-
-
-  <div class="/gallery">
+        <p><strong>Mum 4 - Psst... pat me!</strong></p>
+      </a>
+    </div>
   </div>
+</div>
 
-
-
-  <div class="section">
+<div class="section">
   <div class="section-title">Dad Pics</div>
   <div class="gallery">
     <div class="gallery-item">
-    <a href="/mumanddadgallery">
+      <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1">
         <p><strong>Dad 1</strong></p>
-
-   <div class="gallery-item">
-    <a href="/mumanddadgallery">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2"></a>
+      </a>
+    </div>
+    <div class="gallery-item">
+      <a href="/mumanddadgallery">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2">
         <p><strong>Dad 2</strong></p>
-
-  <div class="/gallery">
+      </a>
+    </div>
   </div>
-
 </div>
 
-[Visit the puppy gallery](/puppy_gallery/) to see more pics!
+<hr>
 
-</br>
-</br>
-
-
-Visit Puppy adoption pages:
+# Check out our Puppy adoption pages:
 - [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
-- [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
-- [Puppy 3 - Puppy 3 - Marshmellow (Boy)](/puppy_3/)
-- [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
-- [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
-
-</br>
-</br>
+- [Puppy 2 - Fudge (Boy)](/puppy_2/)
+- [Puppy 3 - Marshmellow (Boy)](/puppy_3/)
+- [Puppy 4 - Waffle (Girl)](/puppy_4/)
+- [Puppy 5 - Twirly (Girl)](/puppy_5/)
+- or [Visit the puppy gallery](/puppy_gallery/) to see more pics!
 
 [Back to Home](/)
-
-
-
