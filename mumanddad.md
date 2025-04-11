@@ -114,6 +114,6 @@ Mum and Dad:
 - [Puppy 3 - Marshmellow (Boy)](/puppy_3/)
 - [Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Twirly (Girl)](/puppy_5/)
-- or [Visit the puppy gallery](/mumanddadgallery/) to see more pics!
+- or [Visit the puppy gallery](/puppy_gallery/) to see more pics!
 
 [Back to Home](/)
