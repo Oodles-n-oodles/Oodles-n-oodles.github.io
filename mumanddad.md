@@ -91,20 +91,33 @@ Mum and Dad:
     <div class="gallery-item">
       <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a59b4963-0805-48e1-f35d-f63ee3ffae00/public" alt="Dad 1">
-        <p><strong>Dad 1</strong></p>
+        <p><strong>Did you say WALK?</strong></p>
       </a>
     </div>
     <div class="gallery-item">
       <a href="/mumanddadgallery">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2">
-        <p><strong>Dad 2</strong></p>
+        <p><strong>Do you have some food?</strong></p>
       </a>
     </div>
+    <div class="gallery-item">
+      <a href="/mumanddadgallery">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5cb5874c-3bc2-4d26-8b6c-b2ba66598900/public" alt="Dad 2">
+        <p><strong>Stick? Oh this? I found it in the park… and now it’s mine!</strong></p>
+      </a>
+    </div>
+
+
+
+
+
+
+
   </div>
 </div>
 
-
-<div style="padding:176.67% 0 0 0;position:relative;"><p>I wonder what are they upto?</p><iframe src="https://player.vimeo.com/video/1074626591?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="WhatsApp Video 2025-04-11 at 9.29.04 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p>Hmmmm....I wonder what are they upto?</p>
+<div style="padding:176.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1074626591?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="WhatsApp Video 2025-04-11 at 9.29.04 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 <hr>
