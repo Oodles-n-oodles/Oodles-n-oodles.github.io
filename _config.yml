@@ -3,7 +3,11 @@ theme: minima
 
 # Add this navigation section if it doesn’t exist
 header_pages:
+  - index.md
   - puppy_gallery.md
+  - mumanddad.md
+  
+
 
 
 # Footer settings
