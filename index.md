@@ -112,7 +112,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 
 ---
 
-### Visit our Puppy Pages
+### Visit our Puppy adoption pages:
 
 - [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
 - [Puppy 2 - Fudge (Boy)](/puppy_2/)
