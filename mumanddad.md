@@ -52,20 +52,16 @@ Mum and Dad:
       <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bd135f71-0e1a-4806-d53b-a93b749d2d00/public" alt="Mum and Dad 4">
       <p><strong>Mum and Dad 4 - Dog Yoga</strong></p>
     </div>
-  </div>
-    </div>
     <div class="gallery-item">
       <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/0aa05f05-7506-4e7a-488f-b0693bb55000/public" alt="Mum and Dad in kitchen">
       <p><strong>Mum and Dad 5 - In the kitchen</strong></p>
     </div>
-      <div class="gallery-item">
+    <div class="gallery-item">
       <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/54dc8ac8-4887-4cc1-c968-c2ea858e5600/public" alt="Mum and Dad in Garden">
       <p><strong>Mum and Dad 6 - In the Garden</strong></p>
     </div>
   </div>
-
-
-
+</div>
 
 
 
