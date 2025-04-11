@@ -20,7 +20,7 @@ permalink: /puppy_2/
 - [Puppy 4 - Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
 - or [Visit the puppy gallery](/puppy_gallery/) to see more puppy pics!
-- or [Visit the the mum and dad gallery](/mumanddad/) to see some pics or mum and dad!
+- or [Visit the the mum and dad gallery](/mumanddadgallery/) to see some pics or mum and dad!
 
 
 [Back to Home](/)
