@@ -67,7 +67,7 @@ permalink: /puppy_gallery/
 
 
 
-## Visit Puppy adoption pages:
+# Check out our Puppy adoption pages:
 - [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
 - [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
 - [Puppy 3 - Puppy 3 - Marshmellow (Boy)](/puppy_3/)
