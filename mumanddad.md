@@ -53,6 +53,22 @@ Mum and Dad:
       <p><strong>Mum and Dad 4 - Dog Yoga</strong></p>
     </div>
   </div>
+    </div>
+    <div class="gallery-item">
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/0aa05f05-7506-4e7a-488f-b0693bb55000/public" alt="Mum and Dad in kitchen">
+      <p><strong>Mum and Dad 5 - In the kitchen</strong></p>
+    </div>
+      <div class="gallery-item">
+      <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/54dc8ac8-4887-4cc1-c968-c2ea858e5600/public" alt="Mum and Dad in Garden">
+      <p><strong>Mum and Dad 6 - In the Garden</strong></p>
+    </div>
+  </div>
+
+
+
+
+
+
   
 <p>Hmmmm....I wonder what are they upto? </p>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1074813456?h=6da8bc9e08&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="WhatsApp Video 2025-04-12 at 8.29.22 AM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
