@@ -52,6 +52,9 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 
 <div class="section">
   <div class="section-title">Puppies for Adoption</div>
+  
+<a href="https://www.gumtree.com.au/s-ad/werribee/dogs-puppies/5-adorable-labradoodle-puppies-avaliable/1333436458" target="_blank"> Check out our advertisement on Gumtree, for pricing and contact information.</a>
+
   <div class="gallery">
 
     <!-- Puppy 1 -->
