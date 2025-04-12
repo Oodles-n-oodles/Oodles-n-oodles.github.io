@@ -37,9 +37,9 @@ permalink: /puppy_gallery/
   <div class="gallery">
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/840838d7-b045-44f4-0cea-12359fe17300/public" >
-      <p><strong>Puppy Pic 1  - Peaches (Girl)"</strong></p>
+      <p><strong>Puppy Pic 1  - Peaches (Girl)</strong></p>
        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3b5957e9-1c42-437a-de59-893e0edc8300/public" >
-      <p><strong>Puppy Pic 2  - Peaches (Girl)" </strong></p>
+      <p><strong>Puppy Pic 2  - Peaches (Girl)</strong></p>
     </div> 
     </div>
     <div class="gallery-item">
@@ -67,7 +67,7 @@ permalink: /puppy_gallery/
 
 ---
 
-# Check out our puppy adoption and photo gallery pages:
+### Check out our puppy adoption and photo gallery pages:
 - [Puppy 1 - Peaches (Girl)](/puppy_1/)
 - [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
 - [Puppy 3 - Puppy 3 - Marshmallow (Boy)](/puppy_3/)
