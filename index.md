@@ -59,7 +59,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_1">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
       </a>
-      <p><strong>Puppy 1 - Peaches (Girl) - Pink Collar <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 1 - Peaches (Girl)<span style="color:green;">Available</span></strong></p>
     </div>
 
     <!-- Puppy 2 -->
@@ -75,7 +75,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_3">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9f1596a8-1577-4d51-8442-68552d6f6700/public" alt="Puppy 3">
       </a>
-      <p><strong>Puppy 3 - Marshmellow (Boy) <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 3 - Marshmallow (Boy) <span style="color:green;">Available</span></strong></p>
     </div>
 
     <!-- Puppy 4 -->
@@ -114,9 +114,9 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 
 ### Visit our Puppy adoption pages:
 
-- [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
+- [Puppy 1 - Peaches (Girl)](/puppy_1/)
 - [Puppy 2 - Fudge (Boy)](/puppy_2/)
-- [Puppy 3 - Marshmellow (Boy)](/puppy_3/)
+- [Puppy 3 - Marshmallow (Boy)](/puppy_3/)
 - [Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Twirly (Girl)](/puppy_5/)
 - [Puppy Gallery](/puppy_gallery/)

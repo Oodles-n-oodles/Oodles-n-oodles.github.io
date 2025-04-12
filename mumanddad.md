@@ -79,8 +79,8 @@ Mum and Dad:
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1">
         <p><strong>Mum 1 - Working hard</strong></p>
     </div>
-    <div class="gallery-item">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/a154c8fb-b4b2-4c6d-8693-dc5a8a47f900/public" alt="Mum 2">
+    <div class="gallery-item"> <--here-->
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/ed6a2548-5649-4773-fe73-b45b69215500/public" alt="Mum 2">
         <p><strong>Mum 2 - Happy</strong></p>
     </div>
     <div class="gallery-item">
@@ -103,7 +103,7 @@ Mum and Dad:
     </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6aa729ce-c372-4908-7325-9db495600900/public" alt="Dad 2">
-        <p><strong>Did you have say FOOD?</strong></p>
+        <p><strong>Did you say FOOD?</strong></p>
     </div>
     <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/5cb5874c-3bc2-4d26-8b6c-b2ba66598900/public" alt="Dad 2">
@@ -115,9 +115,9 @@ Mum and Dad:
 <hr>
 
 # Check out our Puppy adoption pages:
-- [Puppy 1 - Peaches (Girl) - Pink Collar](/puppy_1/)
+- [Puppy 1 - Peaches (Girl)](/puppy_1/)
 - [Puppy 2 - Fudge (Boy)](/puppy_2/)
-- [Puppy 3 - Marshmellow (Boy)](/puppy_3/)
+- [Puppy 3 - Marshmallow (Boy)](/puppy_3/)
 - [Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Twirly (Girl)](/puppy_5/)
 - or [Visit the puppy gallery](/puppy_gallery/) to see more pics!
