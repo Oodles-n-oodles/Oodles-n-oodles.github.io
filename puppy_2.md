@@ -12,6 +12,7 @@ permalink: /puppy_2/
     <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
   </div>
 
+---
 
 # Check out other Puppy adoption pages:
 - [Puppy 1 - Peaches (Girl)](/puppy_1/)

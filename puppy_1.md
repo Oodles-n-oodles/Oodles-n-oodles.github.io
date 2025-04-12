@@ -12,6 +12,7 @@ permalink: /puppy_1/
     <p><strong>Puppy 1 - Peaches (Girl)</strong></p>
   </div>
 
+---
 
 # Check out other Puppy adoption pages:
 - [Puppy 1 - Peaches (Girl)](/puppy_1/)

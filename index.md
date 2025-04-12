@@ -113,10 +113,14 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 ---
 
 ### Visit our Puppy adoption pages:
-
 - [Puppy 1 - Peaches (Girl)](/puppy_1/)
 - [Puppy 2 - Fudge (Boy)](/puppy_2/)
 - [Puppy 3 - Marshmallow (Boy)](/puppy_3/)
 - [Puppy 4 - Waffle (Girl)](/puppy_4/)
 - [Puppy 5 - Twirly (Girl)](/puppy_5/)
-- [Puppy Gallery](/puppy_gallery/)
+
+---
+
+### Visit our Puppy adoption pages:
+- or [Visit the puppy gallery](/puppy_gallery/) to see more puppy pics!
+- or [Visit the the mum and dad gallery](/mumanddadgallery/) to see some pics or mum and dad!
