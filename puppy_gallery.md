@@ -67,7 +67,7 @@ permalink: /puppy_gallery/
 
 ---
 
-# Check out our Puppy adoption pages and photo galleries:
+# Check out our puppy adoption and photo gallery pages:
 - [Puppy 1 - Peaches (Girl)](/puppy_1/)
 - [Puppy 2 - Puppy 2 - Fudge (Boy)](/puppy_2/)
 - [Puppy 3 - Puppy 3 - Marshmallow (Boy)](/puppy_3/)

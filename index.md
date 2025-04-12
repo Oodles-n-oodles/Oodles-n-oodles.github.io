@@ -121,6 +121,6 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 
 ---
 
-### Visit our Puppy adoption pages:
+### Visit our photo gallery pages:
 - or [Visit the puppy gallery](/puppy_gallery/) to see more puppy pics!
 - or [Visit the the mum and dad gallery](/mumanddadgallery/) to see some pics or mum and dad!
