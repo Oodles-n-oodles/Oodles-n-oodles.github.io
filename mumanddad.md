@@ -79,7 +79,7 @@ Mum and Dad:
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/f9b73769-ba33-402f-d3cf-6fb8f633eb00/public" alt="Mum 1">
         <p><strong>Mum 1 - Working hard</strong></p>
     </div>
-    <div class="gallery-item"> <--here-->
+    <div class="gallery-item">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/ed6a2548-5649-4773-fe73-b45b69215500/public" alt="Mum 2">
         <p><strong>Mum 2 - Happy</strong></p>
     </div>
