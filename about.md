@@ -21,3 +21,5 @@ We’re a loving family based in Melbourne with a passion for labradoodles. Our 
 - [Puppy 5 - Puppy 5 - Twirly (Girl)](/puppy_5/)
 - or [Visit the puppy gallery](/puppy_gallery/) to see more puppy pics!
 - or [Visit the the mum and dad gallery](/mumanddadgallery/) to see some pics or mum and dad!
+
+{% include google-analytics.html %} 
