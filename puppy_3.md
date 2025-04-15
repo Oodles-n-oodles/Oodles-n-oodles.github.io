@@ -28,4 +28,4 @@ permalink: /puppy_3/
 
 [Back to Home](/)
 
-{% include google-analytics.html %} 
+ 

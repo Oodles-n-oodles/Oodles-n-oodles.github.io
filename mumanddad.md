@@ -126,4 +126,3 @@ Mum and Dad:
 
 [Back to Home](/)
 
-{% include google-analytics.html %} 
