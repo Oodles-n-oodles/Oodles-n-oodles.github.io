@@ -27,3 +27,5 @@ permalink: /puppy_1/
 
 
 [Back to Home](/)
+
+{% include google-analytics.html %} 

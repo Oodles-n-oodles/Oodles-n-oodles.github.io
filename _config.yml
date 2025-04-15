@@ -9,7 +9,8 @@ header_pages:
   - about.md
   
 
-
+#
+google_analytics: G-ZGKMX1D82Q
 
 # Footer settings
 footer:

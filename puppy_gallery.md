@@ -81,4 +81,6 @@ permalink: /puppy_gallery/
 
 [Back to Home](/)
 
+{% include google-analytics.html %} 
+
 
