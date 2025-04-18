@@ -8,7 +8,7 @@ permalink: /puppy_5/
 
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3a582cf7-c8ce-4143-d7c4-f525baa09600/public">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/2c9768d8-0eb9-497c-228c-1ba4efbbd100/public">
     <p><strong>Puppy 5 - Twirly (Girl)</strong></p>
   </div>
 

@@ -92,7 +92,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 5 -->
     <div class="gallery-item">
       <a href="/puppy_5">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3a582cf7-c8ce-4143-d7c4-f525baa09600/public" alt="Puppy 5">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/2c9768d8-0eb9-497c-228c-1ba4efbbd100/public" alt="Puppy 5">
       </a>
       <p><strong>Puppy 5 - Twirly (Girl) <span style="color:green;">Available</span></strong></p>
     </div>
