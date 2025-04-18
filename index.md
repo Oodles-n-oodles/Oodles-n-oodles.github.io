@@ -60,7 +60,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 1 -->
     <div class="gallery-item">
       <a href="/puppy_1">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/7a208222-2bb1-4a5f-de9c-83634ec6fe00/public" alt="Puppy 1 - Peaches (Girl)">
       </a>
       <p><strong>Puppy 1 - Peaches (Girl)<span style="color:green;">Available</span></strong></p>
     </div>
@@ -68,7 +68,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 2 -->
     <div class="gallery-item">
       <a href="/puppy_2">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/aac3d4ab-9ecb-4ae8-54a2-fa49b1724300/public" alt="Puppy 2">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3f885d5c-8ef9-437e-a7cc-312fffb8e300/public" alt="Puppy 2">
       </a>
       <p><strong>Puppy 2 - Fudge (Boy) <span style="color:green;">Available</span></strong></p>
     </div>
@@ -76,7 +76,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 3 -->
     <div class="gallery-item">
       <a href="/puppy_3">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9f1596a8-1577-4d51-8442-68552d6f6700/public" alt="Puppy 3">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/76f8fd11-c74d-4631-a10f-4b3c92ca5700/public" alt="Puppy 3">
       </a>
       <p><strong>Puppy 3 - Marshmallow (Boy) <span style="color:green;">Available</span></strong></p>
     </div>
@@ -84,7 +84,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 4 -->
     <div class="gallery-item">
       <a href="/puppy_4">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/43ccfd5a-0cb2-4939-5a81-2e6f302c3200/public" alt="Puppy 4">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bef005dd-f660-4670-0850-732a1f0bbe00/public" alt="Puppy 4">
       </a>
       <p><strong>Puppy 4 - Waffle (Girl) <span style="color:green;">Available</span></strong></p>
     </div>
@@ -92,7 +92,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
     <!-- Puppy 5 -->
     <div class="gallery-item">
       <a href="/puppy_5">
-        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b40addda-e01a-4796-4ab2-8721ca712800/public" alt="Puppy 5">
+        <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3a582cf7-c8ce-4143-d7c4-f525baa09600/public" alt="Puppy 5">
       </a>
       <p><strong>Puppy 5 - Twirly (Girl) <span style="color:green;">Available</span></strong></p>
     </div>
