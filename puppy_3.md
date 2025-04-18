@@ -8,7 +8,7 @@ permalink: /puppy_3/
 
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9f1596a8-1577-4d51-8442-68552d6f6700/public" alt="Puppy 3 - Marshmallow (Boy)">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/76f8fd11-c74d-4631-a10f-4b3c92ca5700/public">
     <p><strong>Puppy 3 - Marshmallow (Boy)</strong> </p>
 </div>
 
@@ -28,4 +28,10 @@ permalink: /puppy_3/
 
 [Back to Home](/)
 
- 
+ ---
+# Older Pictures
+
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/9f1596a8-1577-4d51-8442-68552d6f6700/public">
+    <p><strong>Puppy 3 - Marshmallow (Boy)</strong> </p>
+  </div>

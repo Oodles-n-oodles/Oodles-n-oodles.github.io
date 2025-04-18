@@ -8,7 +8,7 @@ permalink: /puppy_1/
 
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/7a208222-2bb1-4a5f-de9c-83634ec6fe00/public">
     <p><strong>Puppy 1 - Peaches (Girl)</strong></p>
   </div>
 
@@ -28,3 +28,11 @@ permalink: /puppy_1/
 
 [Back to Home](/)
 
+
+---
+# Older Pictures
+
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/6458ac23-a455-452b-9e38-4bf14479d900/public" alt="Puppy 1 - Peaches (Girl)">
+    <p><strong>Puppy 1 - Peaches (Girl)</strong></p>
+  </div>

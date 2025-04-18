@@ -7,7 +7,7 @@ permalink: /puppy_4/
 <h2><span style="color:green;">Available</span></h2>
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/43ccfd5a-0cb2-4939-5a81-2e6f302c3200/public" alt="Puppy 4 - Waffle (Girl)">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bef005dd-f660-4670-0850-732a1f0bbe00/public">
     <p><strong>Puppy 4 - Waffle (Girl) </strong></p>
   </div>
 
@@ -27,4 +27,13 @@ permalink: /puppy_4/
 
 
 [Back to Home](/)
+
+ ---
+# Older Pictures
+
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/43ccfd5a-0cb2-4939-5a81-2e6f302c3200/public">
+    <p><strong>Puppy 4 - Waffle (Girl)</strong> </p>
+  </div>
+
 

@@ -8,7 +8,7 @@ permalink: /puppy_5/
 
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/b40addda-e01a-4796-4ab2-8721ca712800/public" alt="Puppy 5 - Twirly (Girl)">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3a582cf7-c8ce-4143-d7c4-f525baa09600/public">
     <p><strong>Puppy 5 - Twirly (Girl)</strong></p>
   </div>
 
@@ -27,4 +27,13 @@ permalink: /puppy_5/
 
 
 [Back to Home](/)
+
+ ---
+# Older Pictures
+
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/43ccfd5a-0cb2-4939-5a81-2e6f302c3200/public">
+    <p><strong>Puppy 5 - Twirly (Girl)</strong> </p>
+  </div>
+
 

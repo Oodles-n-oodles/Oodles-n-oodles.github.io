@@ -8,7 +8,7 @@ permalink: /puppy_2/
 
 
  <div class="gallery-item">
-    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/aac3d4ab-9ecb-4ae8-54a2-fa49b1724300/public" alt="Puppy 2 - Fudge (Boy)">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3f885d5c-8ef9-437e-a7cc-312fffb8e300/public">
     <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
   </div>
 
@@ -28,3 +28,10 @@ permalink: /puppy_2/
 
 [Back to Home](/)
 
+---
+# Older Pictures
+
+ <div class="gallery-item">
+    <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/aac3d4ab-9ecb-4ae8-54a2-fa49b1724300/public">
+    <p><strong>Puppy 2 - Fudge (Boy)</strong></p>
+  </div>
