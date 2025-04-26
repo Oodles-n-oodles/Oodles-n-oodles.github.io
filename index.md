@@ -70,7 +70,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_2">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/3f885d5c-8ef9-437e-a7cc-312fffb8e300/public" alt="Puppy 2">
       </a>
-      <p><strong>Puppy 2 - Fudge (Boy) <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 2 - Fudge (Boy) <span style="color:blue;">Sold</span></strong></p>
     </div>
 
     <!-- Puppy 3 -->
