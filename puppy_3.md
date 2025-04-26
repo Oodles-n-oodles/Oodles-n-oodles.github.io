@@ -4,7 +4,7 @@ title: Puppy 3 - Marshmallow (Boy)
 permalink: /puppy_3/
 ---
 
-<h2><span style="color:green;">Available</span> </h2>
+<h2><span style="color:Blue;">Sold</span> </h2>
 
 
  <div class="gallery-item">

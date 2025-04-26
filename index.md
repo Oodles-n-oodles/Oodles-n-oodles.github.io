@@ -78,7 +78,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_3">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/76f8fd11-c74d-4631-a10f-4b3c92ca5700/public" alt="Puppy 3">
       </a>
-      <p><strong>Puppy 3 - Marshmallow (Boy) <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 3 - Marshmallow (Boy) <span style="color:blue;">Sold</span></strong></p>
     </div>
 
     <!-- Puppy 4 -->
@@ -94,7 +94,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_5">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/2c9768d8-0eb9-497c-228c-1ba4efbbd100/public" alt="Puppy 5">
       </a>
-      <p><strong>Puppy 5 - Twirly (Girl) <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 5 - Twirly (Girl) <span style="blue:sold;">Available</span></strong></p>
     </div>
 
   </div>

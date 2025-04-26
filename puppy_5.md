@@ -4,7 +4,7 @@ title: Puppy 5 - Twirly (Girl)
 permalink: /puppy_5/
 ---
 
-<h2><span style="color:Green;">Available</span></h2>
+<h2><span style="color:Blue;">Sold</span></h2>
 
 
  <div class="gallery-item">
