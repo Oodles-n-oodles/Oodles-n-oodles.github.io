@@ -86,7 +86,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_4">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bef005dd-f660-4670-0850-732a1f0bbe00/public" alt="Puppy 4">
       </a>
-      <p><strong>Puppy 4 - Waffle (Girl) <span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 4 - Waffle (Girl) <span style="color:blue;">Sold</span></strong></p>
     </div>
 
     <!-- Puppy 5 -->

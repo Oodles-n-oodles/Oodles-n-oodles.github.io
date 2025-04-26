@@ -4,7 +4,7 @@ title: Puppy 4 - Waffle (Girl)
 permalink: /puppy_4/
 ---
 
-<h2><span style="color:green;">Available</span></h2>
+<h2><span style="color:blue">Sold</span></h2>
 
  <div class="gallery-item">
     <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/bef005dd-f660-4670-0850-732a1f0bbe00/public">
