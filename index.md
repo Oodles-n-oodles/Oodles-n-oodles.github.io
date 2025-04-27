@@ -53,8 +53,6 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
 <div class="section">
   <div class="section-title">Puppies for Adoption</div>
   
-<a href="https://www.gumtree.com.au/s-ad/werribee/dogs-puppies/5-adorable-labradoodle-puppies-avaliable/1333436458" target="_blank"> Check out our advertisement on Gumtree, for pricing and contact information.</a>
-
   <div class="gallery">
 
     <!-- Puppy 1 -->
@@ -62,7 +60,7 @@ Raised in our family home with lots of love, cuddles, and care, these pups are w
       <a href="/puppy_1">
         <img src="https://imagedelivery.net/t3wCsGMKGPWUV8JSaoSPtQ/7a208222-2bb1-4a5f-de9c-83634ec6fe00/public" alt="Puppy 1 - Peaches (Girl)">
       </a>
-      <p><strong>Puppy 1 - Peaches (Girl)<span style="color:green;">Available</span></strong></p>
+      <p><strong>Puppy 1 - Peaches (Girl)<span style="color:blue;">Sold</span></strong></p>
     </div>
 
     <!-- Puppy 2 -->

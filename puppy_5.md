@@ -12,7 +12,7 @@ permalink: /puppy_5/
     <p><strong>Puppy 5 - Twirly (Girl)</strong></p>
   </div>
 
-<a href="https://www.gumtree.com.au/s-ad/werribee/dogs-puppies/5-adorable-labradoodle-puppies-avaliable/1333436458" target="_blank"> Check out our advertisement on Gumtree, for pricing and contact information.</a>
+
 
 ---
 
